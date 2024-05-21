@@ -3,6 +3,7 @@
 }
 section{
     display: flex;
+    bottom: 100px;
 }
 .half-width{
     width: 50%;
